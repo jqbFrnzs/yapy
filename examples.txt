@@ -1,0 +1,12 @@
+# for yaml to python parsing
+
+name: John
+age: 30
+address:
+  street: Main St.
+  city: New York
+
+
+# for python to yaml parsing
+
+{'name': 'John', 'age': '30', 'address': {'street': 'Main St.', 'city': 'New York'}}
